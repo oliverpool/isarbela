@@ -35,6 +35,24 @@ schema:
           value: "one_more"
         - type: //str
           value: "none"
+  required:
+    names:
+      type: //rec
+      required:
+        songlist: //str
+        originalsong: //str
+        intro: //str
+        outro: //str
+        bridge: //str
+        chorus: //str
+        verse: //str
+        solo: //str
+        pattern: //str
+        rythm: //str
+        transposition: //str
+        songindex: //str
+        authorindex: //str
+        chordlist: //str
 default:
   en:
     chordfont: "i"
@@ -43,6 +61,37 @@ default:
     chorusfont: "i"
     geometry: "a4paper"
     column_adjustment: none
+    names:
+      songlist: "Songs list"
+      originalsong: "Original song:"
+      intro: "intro"
+      outro: "outro"
+      bridge: "bridge"
+      chorus: "chorus"
+      verse: "verse"
+      solo: "solo"
+      pattern: "pattern"
+      rythm: "rythm"
+      transposition: "transposition:"
+      songindex: "Songs Index"
+      authorindex: "Authors Index"
+      chordlist: "Chords list"
+  fr:
+    names:
+      songlist: "Liste des chansons"
+      originalsong: "Chanson originale :"
+      intro: "intro"
+      outro: "outro"
+      bridge: "pont"
+      chorus: "refrain"
+      verse: "couplet"
+      solo: "solo"
+      pattern: "motif"
+      rythm: "rythme"
+      transposition: "transposition :"
+      songindex: "Index des chansons"
+      authorindex: "Index des auteurs"
+      chordlist: "Liste des accords"
 description:
   en:
     chordfont: "Chord font (i, b, n)"
@@ -126,5 +175,22 @@ description:
 \newpage
 \input{license}
 \newpage
+
+(*- set template_var = _template["data.tex"] -*)
+\renewcommand{\songlistname}{((template_var.names.songlist))}
+\renewcommand{\originalsongname}{((template_var.names.originalsong))}
+\renewcommand{\introname}{((template_var.names.intro))}
+\renewcommand{\outroname}{((template_var.names.outro))}
+\renewcommand{\bridgename}{((template_var.names.bridge))}
+\renewcommand{\chorusname}{((template_var.names.chorus))}
+\renewcommand{\versename}{((template_var.names.verse))}
+\renewcommand{\soloname}{((template_var.names.solo))}
+\renewcommand{\patternname}{((template_var.names.pattern))}
+\renewcommand{\rythmname}{((template_var.names.rythm))}
+\renewcommand{\transpositionname}{((template_var.names.transposition))}
+\renewcommand{\songindexname}{((template_var.names.songindex))}
+\renewcommand{\authorindexname}{((template_var.names.authorindex))}
+\renewcommand{\chordlistname}{((template_var.names.chordlist))}
+
 (* endblock *)
 % end document

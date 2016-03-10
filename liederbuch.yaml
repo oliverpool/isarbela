@@ -1,0 +1,15 @@
+book:
+  lang: de
+  encoding: utf8
+  datadir: ".."
+  pictures: no
+  template: data.tex
+chords:
+  show: yes
+  diagramreminder: important
+  repeatchords: yes
+  lilypond: no
+
+content:
+  - songsection: "Französische Lieder"
+  - fr/joe_dassin/les_champs_elysees.sg

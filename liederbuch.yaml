@@ -9,6 +9,10 @@ chords:
   diagramreminder: important
   repeatchords: yes
   lilypond: no
+template:
+  data.tex:
+    column_adjustment: only_one
+    geometry: "a5paper"
 
 content:
   - songsection: "Französische Lieder"

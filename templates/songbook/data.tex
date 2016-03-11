@@ -173,6 +173,11 @@ description:
     \OldSongColumns{#1}
 (* endif *)
 }
+
+% Correct songs package bug
+% https://tex.stackexchange.com/a/187365/95123
+\renewcommand\colbotglue{0pt plus 1fill minus 0pt}
+
 %! End of columns management
 (* endblock *)
 

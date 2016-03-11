@@ -53,6 +53,8 @@ schema:
         songindex: //str
         authorindex: //str
         chordlist: //str
+        guitarchords: //str
+        ukulelechords: //str
 default:
   en:
     chordfont: "i"
@@ -76,6 +78,8 @@ default:
       songindex: "Songs Index"
       authorindex: "Authors Index"
       chordlist: "Chords list"
+      guitarchords: "Guitar chords"
+      ukulelechords: "Ukulele chords"
   fr:
     names:
       songlist: "Liste des chansons"
@@ -92,6 +96,8 @@ default:
       songindex: "Index des chansons"
       authorindex: "Index des auteurs"
       chordlist: "Liste des accords"
+      guitarchords: "Accords de guitare"
+      ukulelechords: "Accords de ukulélé"
 description:
   en:
     chordfont: "Chord font (i, b, n)"
@@ -191,6 +197,9 @@ description:
 \renewcommand{\songindexname}{((template_var.names.songindex))}
 \renewcommand{\authorindexname}{((template_var.names.authorindex))}
 \renewcommand{\chordlistname}{((template_var.names.chordlist))}
+
+\renewcommand{\guitarchordsname}{((template_var.names.guitarchords))}
+\renewcommand{\ukulelechordsname}{((template_var.names.ukulelechords))}
 
 (* endblock *)
 % end document

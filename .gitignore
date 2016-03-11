@@ -1,2 +1,9 @@
 *-converted.pdf
 /.cache
+*.aux
+*.log
+*.out
+*.sxc
+*.tex
+*.sbx
+*.sxd

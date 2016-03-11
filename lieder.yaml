@@ -1,2 +1,8 @@
+- songsection: "Deutsche Lieder"
+- sort:
+    content:
+      - "de/*/*.sg"
+
 - songsection: "Französische Lieder"
+- setcounter: 101
 - fr/joe_dassin/les_champs_elysees.sg

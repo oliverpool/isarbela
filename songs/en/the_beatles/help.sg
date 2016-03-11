@@ -1,0 +1,55 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Help}
+  [by={The Beatles}]
+
+  \gtab{Bm}{2:X02210}
+  \gtab{G}{3:022100}
+  \gtab{A}{X02220}
+  \gtab{C#m}{3:X02210}
+  \gtab{F#m}{2:022100}
+
+  \begin{bridge}
+    \[Bm]Help! I need somebody 
+    \[G]Help! Not just anybody
+    \[E]Help! You know I need someone
+    \[A]Help!
+  \end{bridge}
+
+  \begin{verse}
+    When I was younger, so much \[C#m]younger than today\[F#m]
+    I never needed anybody's \[D]help in \[G]any \[A]way
+    But now those days are gone I'm \[C#m]not so self-assured\[F#m]
+    Now I find I've changed my mind, I've op\[D]ened \[G]up the d\[A]oor
+  \end{verse}
+
+  \begin{chorus}
+    \[Bm]Help me if you can I'm feeling down
+    \[Bm/A]And I \[G]do appreciate you being 'rou\[G/F#]nd
+    \[E]Help me get my feet back on the ground
+    Won't you \[A]please please help me
+  \end{chorus}
+
+  \begin{verse}
+    And now my life has changed in oh so many ways,
+    My independence seemed to vanish in the haze.
+    But every now and then I feel so insecure,  
+    I know that I just need you like I've never done before.
+  \end{verse}
+
+  \begin{verse}
+    When I was younger, so much younger than today,
+    I never needed anybody's help in any way.
+    But now those days are gone I'm not so self-assured,
+    Now I find I've changed my mind, I've opened up the door.
+  \end{verse}
+
+  \begin{chorus}
+    \[Bm]Help me if you can I'm feeling down
+    \[Bm/A]And I \[G]do appreciate you being 'rou\[G/F#]nd
+    \[E]Help me get my feet back on the ground
+    Won't you \[A]please please help \[F#m]me
+    Help me, help \[A]me, uuh
+  \end{chorus}
+
+\endsong

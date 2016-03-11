@@ -1,0 +1,38 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Hit the road Jack}
+  [by={Ray Charles}]
+
+  \gtab{Am}{5:022000}
+  \gtab{G}{3:022100}
+  \gtab{F}{1:022100}
+  \gtab{E7}{020100}
+
+  \begin{chorus}
+    Hit the \[Am]road \[G]Jack
+    \[F]Don't you come \[E7]back
+    No \[Am]more, no \[G]more, no \[F]more, no \[E7]more
+    Hit the \[Am]road \[G]Jack
+    And \[F]don't you come \[E7]back
+    No \[Am]more\[G]\[F]\[E7]
+  \end{chorus}
+
+  \begin{verse}
+    Oh \[Am]woman, oh \[G]woman, don't \[F]treat me so \[E7]mean
+    You're the \[Am]meanest \[G]woman I've \[F]ever \[E7]seen
+    I \[Am]guess if \[G]you \[F]say \[E7]so
+    I'd \[Am]have to \[G]pack my \[F]things and \[E7]go
+    \echo{That's right}
+  \end{verse}
+
+  \begin{verse}
+    Now baby, listen baby, don't treat me this way
+    For I'll be back on my feet some day
+    \echo{Don't care if you do 'cause it's understood}
+    \echo{You ain't got no money you just ain't no good}
+    Well, I guess if you say so
+    I'd have to pack my things and go
+    \echo{That's right}
+  \end{verse}
+
+\endsong

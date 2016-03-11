@@ -1,0 +1,28 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Here comes the sun}
+  [by={The Beatles}]
+
+
+  \begin{chorus}
+    \[A] Here comes the sun
+    \[D] Here comes the \[B7]sun
+    And I say\[A] it's all right\[D]
+  \end{chorus}
+
+  \begin{verse}
+    \[A] Little darling, it's been a \[D]long, cold, lonely \[E7]winter
+    \[A] Little darling it feels like \[D]years since it's been \[E7]here
+  \end{verse}
+
+  \begin{verse}
+    Little darling, the smile's returning to their faces,
+    Little darling, it seems like years since it's been here
+  \end{verse}
+
+  \begin{verse}
+    Little darling, I feel that ice is slowly melting
+    Little darling, it seems like years since it's been clear
+  \end{verse}
+
+\endsong

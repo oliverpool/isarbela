@@ -1,0 +1,37 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Killing me softly}
+  [by={The Fugees}]
+
+  \gtab*{Esus4}{022200}
+  \gtab{D7}{XX0212}
+  \gtab{B7}{X21202}
+
+  \begin{chorus}
+    \[Em]Strumming my pain with his \[Am]fingers
+    \[D7]Singing my life with his \[G]words
+    \[G]Killing me softly with \[A]his song
+    Killing me soft\[D]ly with his \[C]song
+    Telling my \[G]whole life with \[C]his words
+    Killing me soft\[Esus4]ly with his \[E]song
+  \end{chorus}
+
+  \begin{verse}
+    \[Am7] I heard he \[D]sang a good song
+    \[G] I heard he \[C]had a style
+    \[Am7] And so I \[D]came to see him
+    And \[Em]listen for a while
+    \[Am7] And there he \[D7]was this young boy
+    \[G] A stranger \[B7]to my eyes
+  \end{verse}
+
+  \begin{verse}
+    I felt all flushed with fever
+    Embarrassed by the crowd
+    I felt he found my letters
+    And read each one out loud
+    I prayed that he would finish
+    But he just kept right on
+  \end{verse}
+
+\endsong

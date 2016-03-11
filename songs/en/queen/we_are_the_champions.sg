@@ -1,0 +1,65 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{We are the champions}
+  [by={Queen}]
+
+  \gtab*{Cm}{3:X02210}
+  \gtab*{Gm7/C}{3:X00000}
+  \gtab{E&}{3:X32010}
+  \gtab{A&}{4:022100}
+  \gtab*{B&/D}{XX0331}
+  \gtab{F}{1:022100}
+  \gtab{Am}{002210}
+  \gtab{Dm}{XX0231}
+  \gtab{B&}{1:002220}
+  \gtab{C}{032010}
+  \gtab{D/F#}{2X0232}
+  \gtab{Gm}{3:022000}
+  \gtab{C7/G}{3X231X}
+  \gtab{B&m}{1:002210}
+  \gtab*{E&dim/G}{XX5878}
+  \gtab*{E&/G}{3X134X}
+  \gtab*{A&6}{4X354X}
+  \gtab{B&7}{1:X02020}
+  \gtab{Cm7}{3:X02010}
+  \gtab{Fm7}{1:020000}
+
+  \begin{verse}
+    I've paid my \[Cm]dues\[Gm7/C]
+    Time after \[Cm]time\[Gm7/C]
+    I've done my \[Cm]sentence\[Gm7/C]
+    But committed no \[Cm]crime\[Gm7/C]
+  \end{verse}
+  \begin{verse*}
+    And bad mis\[E&]takes\[A&]
+    I've made a \[E&]few\[A&]
+    I've had my \[E&]share of sand \[B&/D]kicked in my \[Cm]face
+    But \[F7]I've come \[B&]through\[C]
+  \end{verse*}
+
+  \begin{bridge}
+    And we mean to go \[B&]on, and on, and on, and \[C7]on
+  \end{bridge}
+
+  \begin{chorus}
+    \[F]We are the \[Am]champions, my fr\[Dm]iend\[B&]\[C]
+    And \[F]we'll keep on \[Am]fighting 'till the \[B&]end\[D/F#]
+    \[Gm7]We are the ch\[C7/G]ampions, \[B&m]we are the ch\[C]ampi\[E&dim/G]ons
+    \[F]No time for \[E&/G]losers, 'cause \[A&6]we are the ch\[B&7]ampions\[Cm7]
+    Of the w\[Fm7]orld\[Gm7/C]
+  \end{chorus}
+
+  \begin{verse}
+    I've taken my bows
+    And my curtain calls
+    You brought me fame and fortune and everything that goes with it
+    I thank you all
+  \end{verse}
+  \begin{verse*}
+    But it's been no bed of roses
+    No pleasure cruise
+    I consider it a challenge before the whole human race
+    And I ain't gonna lose
+  \end{verse*}
+
+\endsong

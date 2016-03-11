@@ -1,0 +1,51 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{She loves you}
+  [by={The Beatles}]
+
+  \gtab*{Em7}{022030}
+  \gtab*{Gmaj7}{320002}
+  \gtab*{G6}{320000}
+  \gtab{Cm}{3:X02210}
+
+
+  \begin{chorus}
+    She \[Em]loves you, yeah, yeah, yeah
+    She \[A7]loves you, yeah, yeah, yeah
+    She \[C]loves you, yeah, yeah, yeah, \[G]yeah
+  \end{chorus}
+
+  \begin{verse}
+    You \[G]think you lost your \[Em7]love, well, I \[Bm]saw her yester\[D]day
+    \[G]It's you she's thinking \[Em7]of and she \[Bm]told me what to \[D]say
+    \[G]She said she loves you and you \[Gmaj7]know that \[G6]can't be \[Em7]bad
+    Yes she \[Cm]loves you and you know you should be \[D]glad
+  \end{verse}
+
+  \begin{verse}
+    She said you hurt her so, she almost lost her mind
+    But now she said she knows you're not the hurting kind
+    She said she loves you and you know that can't be bad
+    Yes she loves you and you know you should be glad
+  \end{verse}
+
+  \begin{chorus}
+    She \[Em]loves you, yeah, yeah, yeah
+    She \[A7]loves you, yeah, yeah, yeah
+    With a \[Cm]love like that, you \[D]know you should be \[G]glad
+  \end{chorus}
+
+  \begin{verse}
+    You know it's up to you,  I think it's only fair
+    Pride can hurt you too  Apologize to her
+    Because she loves you and you know that can't be bad
+    Yes she loves you and you know you should be glad
+  \end{verse}
+
+  \begin{chorus}
+    She loves you, yeah, yeah, yeah
+    She loves you, yeah, yeah, yeah
+    With a love like that you know you should be glad \rep{3}
+  \end{chorus}
+
+\endsong

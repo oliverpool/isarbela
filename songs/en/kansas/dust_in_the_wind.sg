@@ -1,0 +1,36 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Dust in the wind}
+  [by={Kansas}]
+
+  \capo{5}
+  \gtab{C}{X32010}
+  \gtab{G}{320003}
+  \gtab{Am}{X02210}
+  \gtab{Dm7}{XXX211}
+  \gtab{D}{XXX232}
+
+  \begin{verse}
+    I \[C]close \[G]my \[Am]eyes on\[G]ly for a \[Dm7]moment and a m\[Am]oment's gone\[G]
+    \[C]All \[G]my \[Am]dreams p\[G]ass before my \[Dm7]eyes are cur\[Am]iosity
+  \end{verse}
+
+  \begin{chorus}
+    \[D]Dust \[G]in the \[Am]wind, \[D]all we are is \[G]dust in the \[Am]wind\[G]
+  \end{chorus}
+
+  \begin{verse}
+    Same old song, just a drop of water in the endless sea
+    All we do, crumbles to the ground though we refuse to see
+  \end{verse}
+
+  \begin{verse}
+    Don't hang on, nothing last's forever but the earth and sky
+    It slips away all your money won't another minute buy
+  \end{verse}
+
+  \begin{bridge}
+    \[D]Dust \[G]in the \[Am]wind, \[D]everything is \[G]dust in the \[Am]wind\[G]
+  \end{bridge}
+
+\endsong

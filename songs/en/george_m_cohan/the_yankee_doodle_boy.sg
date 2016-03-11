@@ -1,0 +1,52 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{The Yankee Doodle boy}
+  [by={George M. Cohan}]
+
+  \capo{1}
+
+  \begin{verse}
+    I'm the kid that's all the candy
+    I'm a Yankee Doodle Dandy
+    I'm glad I am
+    \echo{So's Uncle Sam}
+    I'm a real live Yankee Doodle
+    Made my name and fame and boodle
+    Just like Mister Doodle did, by riding on a pony
+    I love to listen to the Dixie strain
+    I long to see the girl I left behind me
+    That ain't a josh
+    She's a Yankee, by gosh
+    Oh, say can you see
+    Anything about a Yankee that's a phony?
+  \end{verse}
+
+  \begin{chorus}
+    \[A]I'm a Yankee Doodle \[B7]Dandy
+    A \[E7]Yankee Doodle, \[E]do or \[A]die
+    A \[F#7]real live nephew of my \[Bm]Uncle Sam
+    \[B7]Born on the Fourth of Ju\[E]ly \[E7]
+    I've \[A]got a Yankee Doodle \[B7]sweetheart
+    \[E7]She's my Yankee \[E]Doodle \[A]joy
+    \[A]Yankee \[E7]Doodle \[A]came to \[E7]London
+    \[A]Just to \[E7]ride the \[A]pon\[E7]ies
+    \[B7]I am the \[E7]Yankee \[E]Doodle \[A]Boy
+  \end{chorus}
+
+  \begin{verse}
+    Father's name was Hezikiah
+    Mother's name was Ann Maria
+    Yanks through and through
+    Red, White and Blue
+    Father was so Yankee-hearted
+    When the Spanish war was started
+    He slipped on a uniform and hopped upon a pony
+    My mother's mother was a Yankee true
+    My father's father was a Yankee too
+    That's going some
+    For the Yankees, by gum
+    Oh, say can you see
+    Anything about my pedigree that's phony?
+  \end{verse}
+
+\endsong

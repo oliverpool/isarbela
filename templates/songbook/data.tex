@@ -198,6 +198,16 @@ description:
 \renewcommand\colbotglue{0pt plus 1fill minus 0pt}
 
 %! End of columns management
+
+% Don't display album or url
+\renewcommand{\extendprelude}{
+    {\bfseries\showauthors~}
+%    {\footnotesize\it\songalbum}
+%    \IfStrEq{\songurl}{}{}{
+%        \href{\songurl}{\includegraphics[width=.3cm]{img/internet}}
+%    }
+}
+
 (* endblock *)
 
 (* block preface *)

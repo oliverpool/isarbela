@@ -1,7 +1,12 @@
 - songsection: "Deutsche Lieder"
 - sort:
     content:
-      - "de/*/*.sg"
+      - de/die_ärzte/mach_die_augen_zu.sg
+      - de/die_ärzte/schrei_nach_liebe.sg
+      - de/die_ärzte/westerland.sg
+      - de/die_ärzte/männer_sind_schweine.sg
+      - de/die_ärzte/hurra.sg
+      - de/die_ärzte/zu_spät.sg
 
 - songsection: "Französische Lieder"
 - setcounter: 101

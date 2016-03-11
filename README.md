@@ -3,7 +3,7 @@ Isarbela Liederbuch
 
 Lieder für den Bezirkslager 2016 Isarbela.
 
-Die Liste ist in der Datei `lieder.yaml` und das Liederbuch ist `liederbuch.pdf`.
+Die Liste ist in der Datei `lieder.yaml` und das Liederbuch ist `akkordenbuch.pdf`.
 
 
 This data is meant to be processed by the [patacrep toolkit](https://github.com/patacrep/patacrep)

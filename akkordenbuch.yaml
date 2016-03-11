@@ -5,13 +5,15 @@ book:
   pictures: no
   template: data.tex
 chords:
-  show: no
-  diagrampage: none
+  show: yes
+  diagrampage: all
+  diagramreminder: important
+  repeatchords: yes
   lilypond: no
 template:
   data.tex:
     column_adjustment: only_one
-    geometry: "a6paper"
+    geometry: "a5paper"
 
 content:
   - include: ../lieder.yaml

@@ -15,50 +15,38 @@
 \newcommand{\chordtabs}[3]{
   % Saving chords groups in boxes
   \sbox{\@chordgroupbox@i}{#2}%
-  \settowidth{\@chordgrouplength@i}{\usebox{\@chordgroupbox@i}}%
+  %\settowidth{\@chordgrouplength@i}{\usebox{\@chordgroupbox@i}}%
   \sbox{\@chordgroupbox@ii}{#3}%
-  \settowidth{\@chordgrouplength@ii}{\usebox{\@chordgroupbox@ii}}%
+  %\settowidth{\@chordgrouplength@ii}{\usebox{\@chordgroupbox@ii}}%
   % Local command
   \def\pl@cechord##1{%
      \vskip.2ex%
      \raisebox{2em}{\chordname{##1}} %
      } %
   % Placing boxes
-  \ifdiagrampagereduced%
-       \pl@cechord{#1}%
-       \hspace{\stretch{1}}%
-       \usebox{\@chordgroupbox@ii}%
-       \hspace{\stretch{1}}%
-       \vskip.2ex%
-       \hrule%
-  \else%
-      \pl@cechord{#1}%
-      \hspace{\stretch{1}}%
-      \ifdim \dimexpr\@chordgrouplength@i+\@chordgrouplength@ii\relax > .8\textwidth
-         \vbox{\hbox{\usebox{\@chordgroupbox@i}}%
-               \hbox{\usebox{\@chordgroupbox@ii}}
-               }%
-      \else
-         \hbox{\usebox{\@chordgroupbox@i}%
-               \usebox{\@chordgroupbox@ii}%
-               }%
-      \fi
-      \vskip.2ex%
-      \hrule%
-  \fi%
+  \pl@cechord{#1}%
+  \hspace{-15mm}%
+  \hspace{\stretch{1}}%
+  \hbox{
+    \usebox{\@chordgroupbox@i}%
+    \usebox{\@chordgroupbox@ii}%
+  }%
+  \vskip1.5em%
+  \hrule%
+  \vskip1.5em%
 }
 
-\newcommand{\chordnameAsharp}{\printnoteA{}\Sharp = \printnoteB{}\Flat}
+\newcommand{\chordnameAsharp}{\printnoteA{}\Sharp\raisebox{-1em}{\hspace{-1.5em} = \printnoteB{}\Flat}}
 \newcommand{\chordnameA}{\printnoteA{}}
 \newcommand{\chordnameB}{\printnoteB{}}
-\newcommand{\chordnameCsharp}{\printnoteC{}\Sharp = \printnoteD{}\Flat}
+\newcommand{\chordnameCsharp}{\printnoteC{}\Sharp\raisebox{-1em}{\hspace{-1.5em} = \printnoteD{}\Flat}}
 \newcommand{\chordnameC}{\printnoteC{}}
-\newcommand{\chordnameDsharp}{\printnoteD{}\Sharp = \printnoteE{}\Flat}
+\newcommand{\chordnameDsharp}{\printnoteD{}\Sharp\raisebox{-1em}{\hspace{-1.5em} = \printnoteE{}\Flat}}
 \newcommand{\chordnameD}{\printnoteD{}}
 \newcommand{\chordnameE}{\printnoteE{}}
-\newcommand{\chordnameFsharp}{\printnoteF{}\Sharp = \printnoteG{}\Flat}
+\newcommand{\chordnameFsharp}{\printnoteF{}\Sharp\raisebox{-1em}{\hspace{-1.5em} = \printnoteG{}\Flat}}
 \newcommand{\chordnameF}{\printnoteF{}}
-\newcommand{\chordnameGsharp}{\printnoteG{}\Sharp = \printnoteA{}\Flat}
+\newcommand{\chordnameGsharp}{\printnoteG{}\Sharp\raisebox{-1em}{\hspace{-1.5em} = \printnoteA{}\Flat}}
 \newcommand{\chordnameG}{\printnoteG{}}
 
 \AtBeginDocument{
@@ -150,7 +138,7 @@
       {\gtab{\printnoteE{}m7}{~:022030}}
     }{
       {\gtab*{\printnoteE{}7M}{~:021100}}
-      {\gtab*{\printnoteE{}4}{~:02220}}
+      {\gtab*{\printnoteE{}4}{~:022200}}
       {\gtab*{\printnoteE{}7}{5:X2120X}}
       {\gtab*{\printnoteE{}6}{~:022120}}
     }

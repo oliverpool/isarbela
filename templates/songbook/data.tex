@@ -208,6 +208,23 @@ description:
 %    }
 }
 
+% display song page in Liederbock
+\def\liederbockname{Liederbock: }
+\newcounter{liederbockpage}
+\setcounter{liederbockpage}{0}
+
+\let\Oldextendpostlude\extendpostlude
+\renewcommand{\extendpostlude}{
+    {\footnotesize%
+       \IfStrEq{\theliederbockpage}{0}{}{
+          \liederbockname
+          \theliederbockpage
+          \setcounter{liederbockpage}{0}%
+       }
+    }
+    \Oldextendpostlude
+}
+
 (* endblock *)
 
 (* block preface *)

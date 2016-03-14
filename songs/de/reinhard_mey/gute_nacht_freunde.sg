@@ -3,31 +3,20 @@
 \beginsong{Gute Nacht Freunde}
   [by={Reinhard Mey}]
 
-
-
-
+  \transpose{3}
 
   \begin{chorus}
-  \[A]Gute Nacht, Fre\[Bm]unde\[E]
-  \[E]Es wird Zeit für mich z\[A]u geh'n
-  \[D]Was ich noch zu sage\[C#m]n hätte
-  Dauert eine Zig\[Bm]arette\[E]
-  \[E]Und ein letztes Glas i\[A]m Steh'n
+  \[A]Gute Nacht, \[Bm]Freunde,\[E7] es wird Zeit für mich zu \[A]geh'n
+  \[D] Was ich noch zu sagen \[C#m]hätte, dauert eine Ziga\[Bm]rette
+  \[E] Und ein letztes Glas im \[A]Steh'n
   \end{chorus}
 
-
-
-
   \begin{verse}
-  \[A]Für den Tag, für d\[Bm]ie Nacht unter Eurem Dach\[E] habt Dank
-  Für den Platz an Eurem Tis\[A]ch, für jedes Glas, das ich trank
-  Für den Teller, den Ihr mi\[Bm]r zu den Euren ste\[E]llt
-  \[E]Als sei selbs\[A]t verständl\[D]icher nichts au\[E]f der Welt
+  Für den Tag, für die \[Bm]Nacht unter Eurem Dach habt \[E]Dank
+  Für den Platz an Eurem \[A]Tisch, für jedes Glas, das ich trank
+  Für den Teller, den Ihr \[Bm]mir zu den Euren \[E]stellt
+  Als sei selbstver\[A]ständlicher \[D]nichts auf der \[E]Welt
   \end{verse}
-
-
-
-
 
   \begin{verse}
   Habt dank für die Zeit, die ich mit Euch verplaudert hab'
@@ -35,10 +24,6 @@
   Dafür, dass Ihr nie fragt wann ich komme oder geh'
   Und für die stets offene Tür, in der ich jetzt steh'
   \end{verse}
-
-
-
-
 
   \begin{verse}
   Für die Freiheit, die als steter Gast bei Euch wohnt

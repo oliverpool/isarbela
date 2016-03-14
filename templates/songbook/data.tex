@@ -200,12 +200,20 @@ description:
 %! End of columns management
 
 % Don't display album or url
+% Display Liederbock page
 \renewcommand{\extendprelude}{
-    {\bfseries\showauthors~}
+    {\bfseries\showauthors}
 %    {\footnotesize\it\songalbum}
 %    \IfStrEq{\songurl}{}{}{
 %        \href{\songurl}{\includegraphics[width=.3cm]{img/internet}}
 %    }
+    % display song page in Liederbock
+    {\footnotesize%
+       \IfStrEq{\theliederbockpage}{0}{}{%
+          \liederbockname\theliederbockpage%
+          \setcounter{liederbockpage}{0}%
+       }
+    }
 }
 
 % display song page in Liederbock
@@ -215,18 +223,6 @@ description:
 
 \newcommand{\metaliederbock}[1]{
   \setcounter{liederbockpage}{#1}
-}
-
-\let\Oldextendpostlude\extendpostlude
-\renewcommand{\extendpostlude}{
-    {\footnotesize%
-       \IfStrEq{\theliederbockpage}{0}{}{
-          \liederbockname
-          \theliederbockpage
-          \setcounter{liederbockpage}{0}%
-       }
-    }
-    \Oldextendpostlude
 }
 
 (* endblock *)

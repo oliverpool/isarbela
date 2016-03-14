@@ -213,6 +213,10 @@ description:
 \newcounter{liederbockpage}
 \setcounter{liederbockpage}{0}
 
+\newcommand{\metaliederbock}[1]{
+  \setcounter{liederbockpage}{#1}
+}
+
 \let\Oldextendpostlude\extendpostlude
 \renewcommand{\extendpostlude}{
     {\footnotesize%

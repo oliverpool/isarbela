@@ -1,3 +1,0 @@
-(* if content.argument[0] == 'liederbock' *)
-\setcounter{liederbockpage}{((- content.argument[1] -))}
-(* endif *)

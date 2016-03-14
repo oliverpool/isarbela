@@ -16,7 +16,7 @@ template:
     author: "Liederbuch AK"
   data.tex:
     column_adjustment: only_one
-    geometry: "a5paper,left=6mm,right=6mm,top=-8mm,bottom=6mm,asymmetric,bindingoffset=00mm"
+    geometry: "a5paper,left=6mm,right=6mm,top=-8mm,bottom=-3mm,asymmetric,bindingoffset=00mm"
     chordfont: "i"
     chorusfont: "b"
   patacrep.tex:

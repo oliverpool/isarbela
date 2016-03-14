@@ -225,6 +225,17 @@ description:
   \setcounter{liederbockpage}{#1}
 }
 
+\usepackage[german=quotes,french=quotes,autostyle]{csquotes}
+\newif\ifquoteopen
+\defineshorthand{"}{%
+   \ifquoteopen
+     \quoteopenfalse\textcoquote %
+   \else
+     \quoteopentrue\textooquote %
+   \fi
+}
+
+
 (* endblock *)
 
 (* block preface *)

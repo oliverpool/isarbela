@@ -1,14 +1,20 @@
+- tex: de/das_pfadfindergebet/das_pfadfindergebet.tex
 - songsection: "Deutsche Lieder"
 - sort:
+    key: ['by', 'title']
     content:
-      - de/die_ärzte/mach_die_augen_zu.sg
-      - de/die_ärzte/schrei_nach_liebe.sg
-      - de/die_ärzte/westerland.sg
-      - de/die_ärzte/männer_sind_schweine.sg
-      - de/die_ärzte/hurra.sg
-      - de/die_ärzte/zu_spät.sg
-      - de/_/es_war_an_einem_sommertag.sg
+      - de/_/allzeit_bereit.sg
+      - de/_/nehmt_abschied_bruder.sg
+
+- songsection: "Englische Lieder"
+- setcounter: 101
+- sort:
+    key: ['by', 'title']
+    content:
+      - en/jeff_buckley/hallelujah.sg
 
 - songsection: "Französische Lieder"
-- setcounter: 101
+- setcounter: 201
 - fr/joe_dassin/les_champs_elysees.sg
+
+- tex: de/das_pfadfindergebet/back.tex

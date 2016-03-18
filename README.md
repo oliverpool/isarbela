@@ -1,15 +1,15 @@
 Isarbela Liederbuch
 ===================
 
-Den aktuelle Liederbuch-Entwurf kannst du unter [liederbuch.pdf](https://github.com/oliverpool/isarbela/raw/isarbela/akkordenbuch.pdf) finden.
+Jeder Stamm hat eine E-Mail bekommen, um uns Liederwünsche zu schicken.
 
-Bei Liedwünschen, bitte:
+**Falls du uns helfen willst, um das Liederbuch herzustellen, bist du herzlich willkommen!**
 
-1. Zuerst gucken, ob es schon im Liederbuch ist: [liederbuch.pdf](https://github.com/oliverpool/isarbela/raw/isarbela/akkordenbuch.pdf)
-2. Dann checken, ob es [angenommen](https://github.com/oliverpool/isarbela/issues?utf8=%E2%9C%93&q=label%3AAngenommen+) oder [abgelehnt](https://github.com/oliverpool/isarbela/issues?utf8=%E2%9C%93&q=label%3AAbgelehnt+) wurde
-4. Dann kannst du einfach einen [Beitrag schreiben](https://github.com/oliverpool/isarbela/issues/new) (du brauchst ein Github-Konto) oder uns eine E-Mail schicken an oliverpool@hotmail.fr.
+Alle Lieder brauchen wir als ".csg" datei:
 
-Falls du uns helfen möchtest, kannst du dich gern bei uns melden (oder Pull Requests vorschlagen)!
+1.  Wir haben schon ein paar Datei auf [deutsch](https://github.com/oliverpool/isarbela/tree/isarbela/songs/de) und [englisch](https://github.com/oliverpool/isarbela/tree/isarbela/songs/en): die Lieder die wir noch nicht haben, müssen geschreiben werden. Wir haben eine kleine [Führung](https://github.com/oliverpool/isarbela/blob/isarbela/ChordPro.md), um dir zu helfen, ChordPro Datei zu schreiben (ist sehr einfach und du brauchst kein besondere Software dafür).
+2. Die Lieder müssen gespielt und korrigiert werden! Wenn du in dem aktuellen [liederbuch.pdf](https://github.com/oliverpool/isarbela/raw/isarbela/akkordenbuch.pdf) Fehler findest (Text oder Akkorde), kannst du einfach einen [Beitrag schreiben](https://github.com/oliverpool/isarbela/issues/new) (du brauchst ein Github-Konto) oder uns eine E-Mail schicken an oliverpool@hotmail.fr.
+
 
 ---
 

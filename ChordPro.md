@@ -72,6 +72,6 @@ Zu Beispiel:
 [Am]Allzeit bereit,[G] wir kennen keine [Am]Grenzen
 ```
 
-* Der erste `Am` ist auf *All-* gepsielt
+* Der erste `Am` ist auf *All-* gespielt
 * `G` muss man zwischen *bereit* und *wir* spielen
 * Der 2. `Am` ist auf *Gren-* gespielt

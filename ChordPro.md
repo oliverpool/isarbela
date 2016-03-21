@@ -75,3 +75,6 @@ Zu Beispiel:
 * Der erste `Am` ist auf *All-* gespielt
 * `G` muss man zwischen *bereit* und *wir* spielen
 * Der 2. `Am` ist auf *Gren-* gespielt
+
+
+Mit dieser Datei kannst du einfach einen [Beitrag schreiben](https://github.com/oliverpool/isarbela/issues/new) (du brauchst ein Github-Konto) oder uns eine E-Mail schicken an oliverpool@hotmail.fr.

@@ -20,10 +20,12 @@
       - de/die_ärzte/westerland.sg
       - de/die_prinzen/alles_nur_geklaut.sg
       - de/eav/fata_morgana.sg
-
       - de/sportfreunde_stiller/ein_kompliment.sg
       - de/die_ärzte/schrei_nach_liebe.sg
       - de/die_toten_hosen/alles_aus_liebe.sg
+
+      - de/sportfreunde_stiller/wunderbaren_jahren.csg
+
 
       # Englische
       - en/jeff_buckley/hallelujah.sg
@@ -31,7 +33,6 @@
       - en/fools_garden/lemon_tree.sg
       - en/wheatus/teenage_dirtbag.sg
       - en/deep_blue_something/breakfast_at_tiffanys.csg
-      
       - en/britney_spears/baby_one_more_time.sg
       - en/4_non_blondes/what_s_up.sg
       - en/avril_lavigne/nobody_s_home.sg
@@ -40,6 +41,8 @@
       - en/eagle_eye_cherry/save_tonight.sg
       - en/reamonn/supergirl.sg
       - en/cranberries/zombie.sg
+
+      - en/the_proclaimers/500_miles.csg
 
 #- songsection: "Englische Lieder"
 # - setcounter: 101

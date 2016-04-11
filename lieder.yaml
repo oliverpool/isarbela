@@ -1,20 +1,55 @@
-- tex: de/das_pfadfindergebet/das_pfadfindergebet.tex
-- songsection: "Deutsche Lieder"
+#- tex: de/das_pfadfindergebet/das_pfadfindergebet.tex
+#- songsection: "Deutsche Lieder"
+- de/isarbela/2016.csg
 - sort:
-    key: ['by', 'title']
+    key: ['title']
     content:
+      # Gottestag
+      - de/_einzug_auszug/aufstehn_aufeinander_zugehn.sg
+      - de/_auszug/möge_die_straße_uns_zusammenführen.sg
+      # Deutsch
       - de/_/allzeit_bereit.sg
+      - de/_/flinke_hände_flinke_füße.sg
+      - de/_/er_war_ein_pfadfinder.sg
+      - de/hannes_wader/heute_hier_morgen_dort.sg
       - de/_/nehmt_abschied_bruder.sg
+      - de/_/schilf_bleicht.sg
+      - de/_/wenn_der_abend_naht.sg
+      - de/_/bolle.sg
+      - de/_/roter_mond.csg
+      - de/die_ärzte/westerland.sg
+      - de/die_prinzen/alles_nur_geklaut.sg
+      - de/eav/fata_morgana.sg
 
-- songsection: "Englische Lieder"
-- setcounter: 101
-- sort:
-    key: ['by', 'title']
-    content:
+      - de/sportfreunde_stiller/ein_kompliment.sg
+      - de/die_ärzte/schrei_nach_liebe.sg
+      - de/die_toten_hosen/alles_aus_liebe.sg
+
+      # Englische
       - en/jeff_buckley/hallelujah.sg
+      - en/blondie/maria.sg
+      - en/fools_garden/lemon_tree.sg
+      - en/wheatus/teenage_dirtbag.sg
+      - en/deep_blue_something/breakfast_at_tiffanys.csg
+      
+      - en/britney_spears/baby_one_more_time.sg
+      - en/4_non_blondes/what_s_up.sg
+      - en/avril_lavigne/nobody_s_home.sg
+      - en/scorpions/wind_of_change.sg
+      - en/oasis/wonderwall.sg
+      - en/eagle_eye_cherry/save_tonight.sg
+      - en/reamonn/supergirl.sg
+      - en/cranberries/zombie.sg
 
-- songsection: "Französische Lieder"
-- setcounter: 201
-- fr/joe_dassin/les_champs_elysees.sg
+#- songsection: "Englische Lieder"
+# - setcounter: 101
+# - sort:
+#     key: ['by', 'title']
+#     content:
+#       - en/jeff_buckley/hallelujah.sg
 
-- tex: de/das_pfadfindergebet/back.tex
+# - songsection: "Französische Lieder"
+# - setcounter: 201
+# - fr/joe_dassin/les_champs_elysees.sg
+
+# - tex: de/das_pfadfindergebet/back.tex

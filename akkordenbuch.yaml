@@ -6,7 +6,7 @@ book:
   template: data.tex
 chords:
   show: yes
-  diagrampage: all
+  diagrampage: none
   diagramreminder: important
   repeatchords: yes
   lilypond: no

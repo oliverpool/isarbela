@@ -141,7 +141,7 @@ description:
 
 (* block preambule *)
 (*- set template_var = _template["data.tex"] -*)
-\usepackage{licence}
+%\usepackage{licence}
 
 %! Font management
 \makeatletter
@@ -225,8 +225,11 @@ description:
   \setcounter{liederbockpage}{#1}
 }
 
-\usepackage[german=quotes,french=quotes,autostyle]{csquotes}
-\newif\ifquoteopen
+\usepackage[german=quotes,french=quotes,english=british,strict]{csquotes}
+\newboolean{quoteopen}
+\renewcommand\quoteopenfalse{\global\let \ifquoteopen \iffalse}
+\renewcommand\quoteopentrue{\global\let \ifquoteopen \iftrue}
+\quoteopentrue
 \defineshorthand{"}{%
    \ifquoteopen
      \quoteopenfalse\textcoquote %
@@ -241,7 +244,7 @@ description:
 (* block preface *)
 % Licence
 \newpage
-\input{license}
+%\input{license}
 \newpage
 
 (*- set template_var = _template["data.tex"] -*)
@@ -265,3 +268,8 @@ description:
 
 (* endblock *)
 % end document
+
+(* block index *)
+%\CenterWallPaper{1}{heft}
+\showindex[1]{\songindexname}{titleidx}
+(* endblock *)

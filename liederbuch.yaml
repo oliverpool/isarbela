@@ -9,9 +9,26 @@ chords:
   diagrampage: none
   lilypond: no
 template:
+  default.tex:
+    title: "Isarbela Liederbuch"
+    author: "Liederbuch AK"
   data.tex:
     column_adjustment: only_one
-    geometry: "a6paper"
+    geometry: "a6paper,left=7mm,right=7mm,top=-8mm,bottom=-3mm,asymmetric,bindingoffset=00mm"
+    chordfont: "i"
+    chorusfont: "b"
+    names:
+        songindex: "Lieder"
+  patacrep.tex:
+    url: ""
+    email: ""
+    picturecopyright: ""
+    color:
+      songlink: "002F56"
+    bgcolor:
+     songnumber: 64A6FF
+     note: 64A6FF
+     index: 64A6FF
 
 content:
   - include: ../lieder.yaml

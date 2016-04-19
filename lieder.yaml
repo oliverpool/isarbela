@@ -23,8 +23,19 @@
       - de/sportfreunde_stiller/ein_kompliment.sg
       - de/die_ärzte/schrei_nach_liebe.sg
       - de/die_toten_hosen/alles_aus_liebe.sg
+      - de/henry_valentino/im_wagen_vor_mir.sg
+      - de/_/unter_den_toren.sg
+      - de/_/wir_lagen_vor_madagaskar.sg
+      - de/reinhard_mey/über_den_wolken.sg
+      - de/_/es_war_an_einem_sommertag.sg
 
       - de/sportfreunde_stiller/wunderbaren_jahren.csg
+      - de/_/raubritter.csg
+      - de/_/eines_morgens.csg
+      - de/dschungelbuch/probiers_mal_mit_gemuetlichkeit.csg
+      - de/_/lilienbanner.csg
+      - de/nico_haak/schmidtchen_schleicher.csg
+      - de/juergen_von_der_lippe/saunafreunde.csg
 
 
       # Englische
@@ -41,8 +52,12 @@
       - en/eagle_eye_cherry/save_tonight.sg
       - en/reamonn/supergirl.sg
       - en/cranberries/zombie.sg
+      - en/john_denver/country_roads.sg
 
       - en/the_proclaimers/500_miles.csg
+      - en/john_denver/leaving_on_a_jetplane.csg
+      - en/axis_of_awesome/4_chords.csg
+      - en/rihanna/diamonds.csg
 
 #- songsection: "Englische Lieder"
 # - setcounter: 101

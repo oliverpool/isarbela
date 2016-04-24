@@ -7,6 +7,7 @@
       # Gottestag
       - de/_einzug_auszug/aufstehn_aufeinander_zugehn.sg
       - de/_auszug/möge_die_straße_uns_zusammenführen.sg
+      - de/_gloria/laudato_si.sg
       # Deutsch
       - de/_/allzeit_bereit.sg
       - de/_/flinke_hände_flinke_füße.sg
@@ -37,6 +38,9 @@
       - de/nico_haak/schmidtchen_schleicher.csg
       - de/juergen_von_der_lippe/saunafreunde.csg
 
+# - sort:
+#     key: ['title']
+#     content:
 
       # Englische
       - en/jeff_buckley/hallelujah.sg

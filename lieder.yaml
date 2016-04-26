@@ -29,6 +29,7 @@
       - de/_/wir_lagen_vor_madagaskar.sg
       - de/reinhard_mey/über_den_wolken.sg
       - de/_/es_war_an_einem_sommertag.sg
+      - de/pierre_schilling/major_tom.sg
 
       - de/sportfreunde_stiller/wunderbaren_jahren.csg
       - de/_/raubritter.csg
@@ -37,6 +38,7 @@
       - de/_/lilienbanner.csg
       - de/nico_haak/schmidtchen_schleicher.csg
       - de/juergen_von_der_lippe/saunafreunde.csg
+      - de/die_ärzte/monsterparty.csg
 
 # - sort:
 #     key: ['title']
@@ -57,11 +59,15 @@
       - en/reamonn/supergirl.sg
       - en/cranberries/zombie.sg
       - en/john_denver/country_roads.sg
+      - en/backstreet_boys/i_want_it_that_way.sg
 
       - en/the_proclaimers/500_miles.csg
       - en/john_denver/leaving_on_a_jetplane.csg
       - en/axis_of_awesome/4_chords.csg
       - en/rihanna/diamonds.csg
+      - en/otis_redding/sitting_on_the_dock_of_the_bay.csg
+      - en/robbie_williams/angels.sg
+      - en/traditional/the_star_of_the_county_down.csg
 
 #- songsection: "Englische Lieder"
 # - setcounter: 101

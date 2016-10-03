@@ -1,6 +1,6 @@
 # ChordPro Datei
 
-Ein ChordPro Datei ist einfach ein *.txt oder *.doc Datei, wo die Akkorde eine besondere Stelle haben. Hier ist ein Beispiel:
+Ein ChordPro Datei ist einfach ein *.csg Datei (wie *.txt), wo die Akkorde eine besondere Stelle haben. Hier ist ein Beispiel:
 
 ```
 {lang: en}
@@ -76,6 +76,3 @@ Zu Beispiel:
 * `G` muss man zwischen *bereit* und *wir* spielen
 * Der 2. `Am` ist auf *Gren-* gespielt
 
----
-
-Mit dieser Datei kannst du einfach einen [Beitrag schreiben](https://github.com/oliverpool/isarbela/issues/new) (du brauchst ein Github-Konto) oder uns eine E-Mail schicken an oliverpool@hotmail.fr.

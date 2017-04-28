@@ -5,8 +5,8 @@ book:
   pictures: no
   template: data.tex
 chords:
-  show: no
-  diagrampage: none
+  show: yes
+  diagrampage: all
   lilypond: no
 template:
   default.tex:
@@ -14,7 +14,7 @@ template:
     author: "Liederbuch AK"
   data.tex:
     column_adjustment: only_one
-    geometry: "paperheight=154mm,paperwidth=111mm,left=10mm,right=10mm,top=-5mm,bottom=0mm,asymmetric,bindingoffset=00mm"
+    geometry: "paperheight=216mm,paperwidth=154mm,left=10mm,right=10mm,top=-5mm,bottom=0mm,asymmetric,bindingoffset=00mm"
     chordfont: "i"
     chorusfont: "b"
     names:
@@ -31,4 +31,4 @@ template:
      index: E4E4E4
 
 content:
-  - include: ../lieder_sorted.yaml
+  - include: ../lieder.yaml

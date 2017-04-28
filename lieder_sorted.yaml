@@ -1,0 +1,62 @@
+# - de/isarbela/2016.csg #repeat
+- en/axis_of_awesome/4_chords.csg
+- en/the_proclaimers/500_miles.csg
+- de/die_toten_hosen/alles_aus_liebe.sg
+- de/die_prinzen/alles_nur_geklaut.sg
+- de/_/allzeit_bereit.sg
+- en/robbie_williams/angels.sg
+- de/_einzug_auszug/aufstehn_aufeinander_zugehn.sg
+- en/britney_spears/baby_one_more_time.sg
+- de/_/bolle.sg
+- en/deep_blue_something/breakfast_at_tiffanys.csg
+- en/bandits/catch_me.csg
+- en/john_denver/country_roads.sg
+#- en/rihanna/diamonds.csg #repeat
+- de/_/eines_morgens.csg
+- en/traditional/the_star_of_the_county_down.csg
+- de/sportfreunde_stiller/ein_kompliment.sg
+- de/_/er_war_ein_pfadfinder.sg
+- de/_/es_war_an_einem_sommertag.sg
+- de/eav/fata_morgana.sg
+- de/_/flinke_hände_flinke_füße.sg
+- en/jeff_buckley/hallelujah.sg
+- en/enrique_iglesias/hero.csg
+- de/hannes_wader/heute_hier_morgen_dort.sg
+- en/backstreet_boys/i_want_it_that_way.sg
+- de/henry_valentino/im_wagen_vor_mir.sg
+- de/_gloria/laudato_si.sg
+- en/john_denver/leaving_on_a_jetplane.csg
+- en/fools_garden/lemon_tree.sg
+- de/_/lilienbanner.csg
+- de/pierre_schilling/major_tom.sg
+- en/blondie/maria.sg
+- de/_auszug/möge_die_straße_uns_zusammenführen.sg
+# - de/die_ärzte/monsterparty.csg #repeat
+- de/_/nehmt_abschied_bruder.sg
+- en/avril_lavigne/nobody_s_home.sg
+- de/dschungelbuch/probiers_mal_mit_gemuetlichkeit.csg
+- de/_/raubritter.csg
+# - de/_/roter_mond.csg #repeat
+- de/juergen_von_der_lippe/saunafreunde.csg
+- en/eagle_eye_cherry/save_tonight.sg
+- de/_/schilf_bleicht.sg
+- de/nico_haak/schmidtchen_schleicher.csg
+- de/die_ärzte/schrei_nach_liebe.sg
+- en/otis_redding/sitting_on_the_dock_of_the_bay.csg
+- en/reamonn/supergirl.sg
+- en/wheatus/teenage_dirtbag.sg
+- de/reinhard_mey/über_den_wolken.sg
+- de/_/unter_den_toren.sg
+- de/_/wenn_der_abend_naht.sg
+- de/die_ärzte/westerland.sg
+- en/4_non_blondes/what_s_up.sg
+- en/scorpions/wind_of_change.sg
+- de/_/wir_lagen_vor_madagaskar.sg
+- en/oasis/wonderwall.sg
+# - de/sportfreunde_stiller/wunderbaren_jahren.csg #repeat
+- en/cranberries/zombie.sg
+- songsection: "Gesänge aus Taizé"
+- sort:
+      key: ['title']
+      content:
+            - taize/*.csg

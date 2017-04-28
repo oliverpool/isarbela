@@ -1,6 +1,6 @@
-#- tex: de/das_pfadfindergebet/das_pfadfindergebet.tex
+- tex: de/das_pfadfindergebet/das_pfadfindergebet.tex
 #- songsection: "Deutsche Lieder"
-- de/isarbela/2016.csg
+#- de/isarbela/2016.csg
 - sort:
     key: ['title']
     content:
@@ -17,7 +17,7 @@
       - de/_/schilf_bleicht.sg
       - de/_/wenn_der_abend_naht.sg
       - de/_/bolle.sg
-      - de/_/roter_mond.csg
+      # - de/_/roter_mond.csg
       - de/die_ärzte/westerland.sg
       - de/die_prinzen/alles_nur_geklaut.sg
       - de/eav/fata_morgana.sg
@@ -31,14 +31,14 @@
       - de/_/es_war_an_einem_sommertag.sg
       - de/pierre_schilling/major_tom.sg
 
-      - de/sportfreunde_stiller/wunderbaren_jahren.csg
+      # - de/sportfreunde_stiller/wunderbaren_jahren.csg
       - de/_/raubritter.csg
       - de/_/eines_morgens.csg
       - de/dschungelbuch/probiers_mal_mit_gemuetlichkeit.csg
       - de/_/lilienbanner.csg
       - de/nico_haak/schmidtchen_schleicher.csg
       - de/juergen_von_der_lippe/saunafreunde.csg
-      - de/die_ärzte/monsterparty.csg
+      # - de/die_ärzte/monsterparty.csg
 
 # - sort:
 #     key: ['title']
@@ -64,12 +64,19 @@
       - en/the_proclaimers/500_miles.csg
       - en/john_denver/leaving_on_a_jetplane.csg
       - en/axis_of_awesome/4_chords.csg
-      - en/rihanna/diamonds.csg
+      # - en/rihanna/diamonds.csg
       - en/otis_redding/sitting_on_the_dock_of_the_bay.csg
       - en/robbie_williams/angels.sg
       - en/traditional/the_star_of_the_county_down.csg
+      - en/bandits/catch_me.csg
+      - en/enrique_iglesias/hero.csg
 
-#- songsection: "Englische Lieder"
+- songsection: "Gesänge aus Taizé"
+- sort:
+      key: ['title']
+      content:
+            - taize/*.csg
+
 # - setcounter: 101
 # - sort:
 #     key: ['by', 'title']
